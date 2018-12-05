@@ -14,6 +14,7 @@ public class StringArray {
 		
 		printCalender(cal, numDays, startDay);
 		System.out.println(cal[1][1][0]);
+		System.out.println("Git!!!");
 
 	}
 	
